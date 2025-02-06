@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=35&desc=kangsuyeong's%20GitHub%20Profile&descAlignY=50&descAlign=50" />
+</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
