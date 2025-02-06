@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=35&desc=kangsuyeong's%20GitHub%20Profile&descAlignY=50&descAlign=50" />
 </div>
 
-<h3 align="center">✨ about me ✨</h3>
+<h3 align="center">🖥️ about me 🖥️</h3>
 <div align="center">
   <p>인하대 정보통신공학과를 졸업하고 프론트엔드 개발을 공부하고 있습니다.</p>
   <p>자습과 교내 동아리 활동을 통해 프론트엔드 기초를 익혔으며, 더 깊이 있는 학습을 위해 데브코스를 수강 중입니다.</p>
